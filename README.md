@@ -1,6 +1,6 @@
 # WebRTC Demos
 
-#### Click Image By WebRtc
+#### Capture Image By WebRtc
 `````
 Requirement: WebRTC compatible web-browser (Example: chrome/firefox desktop/android)
 `````
